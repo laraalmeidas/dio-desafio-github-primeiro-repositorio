@@ -1,3 +1,0 @@
-# Veja aqui os comandos básicos para o git:
-
-[Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
